@@ -2,8 +2,8 @@ package romjos
 
 import "fmt"
 
-func romjos(){
+func romjos() {
 
-    fmt.Println("collita")
+	fmt.Println("collita")
 
 }
